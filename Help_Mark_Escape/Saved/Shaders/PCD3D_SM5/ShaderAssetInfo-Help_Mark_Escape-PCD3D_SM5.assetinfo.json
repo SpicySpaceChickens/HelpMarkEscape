@@ -1,0 +1,590 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27D4F827A19CAA0A888D888857CDDC3BC8720D5C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BAE22A1ABB1CBB248257C342C906E5D3F2723A2D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D23C75799DEF0E787A73E61A3035F2635A865E7A",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/FirstPersonBP/Props/lambert1.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/FirstPersonBP/Props/andrzej_fullbody_gym_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D722CA47EEA195E2ECCDB9AE1C393D334E460A3",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E54F8731E4DB06305E2C922AD4FA917B06EF3DF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3B1EE8E520055A0DFECE9D37E93134BDCCB50E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0042AAEE9D5EF1F678BC41F998BFA45A32FB002E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "052826F9417262545AE9470F132F0345CDFAAD45",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D5CE78AF765895B0E693106AA943D2E2F24E78A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84E77B16DB6849A87F7F4730D1BD9FAFFE41D989",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7E63F6C90A361E34685B834C7874B51BF2D6C3F",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B7B733B3DABCA38F065A4587A0DD07F6E04B84C",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD931A78DB5A958A427FE1C3C7A51FC828811A47",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FABBAEFD498D89B729F6147339AA576906174833",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "247AD1F2A04CB66787EB2BB7BD99D174E37EBD02",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A7352BA4C16AC5BA9D60F79340489DEB8C193344",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "96ABC957B0B060459B6793A6F0735DB56DDA4370",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A747AAF8DE84AACB8F9577580CE1C3ED197AE08F",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "277C4A60B37C828302554968D1F3FFBB31B71A60",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE939F5012B08EA4331EFFCCAEE5E2C6E204A21D",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "406910CE57506F7A360A4D454C0A5922527B0A28",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "808E590D94508EA9DFA8A4995C7170374E274A6A",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6400375A27875BC276B7A7E33AB1C31D36E589D4",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C80992EA0F1C856478C69F63138B2128FC31380",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7605C2E6D7D82262245A9AB1C3CED3E4DDA7CE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "07C710A5B895D9D07A58DCD7FA527E474168B411",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0BC1DA519AD13ED1307AFE0DF15D14C65C6ADA84",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "49D4921B4C4393D0C641EAADD14173DAC74BC98F",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D4D3C7BC98A03C7FD78A7C8AE664722E73E9C76",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E61DE484B525AE05CEDDFF0B969AC654B47E1145",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F9860C13F6B7C9861B920BAF1CF28519B54C1FA4",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "045DE34D8683E65C5205B22DF055F6B4823A15E7",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E02B0BF6FBD41C96DD6C9B6FB6C65CF3A931E9CE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ADC972D790FAF315F283845997007186E43C6DE6",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E5AD9E7C97E2A0816E5E85247B4E8EF27D0C4536",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "788011E697CA1F1DACD0A0B01FC6F218276C019B",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A89114FA1E0F73815CFB647F2AF5E78935C2212F",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "884733D7A307000C7BCC33A68B6291FCA8112DC8",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "95F515EC2E83BA30A5C5965D24AF0D357B4EAF41",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26BFF8B1E35CBC69E0DB2861641EDB37BF6732C",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "615BE861F59AF04C8A304A346C1B7A969CFA1286",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9ABB3B688A686AF4DAC665DCD28E86C6BE39BFE1",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF554E92813FDC77AA9065166EDA9F1452E1424D",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A9432D5049355C811ABD04DE5892ACA9048198DE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C8CEE621CB6E13AA9931F120A1B1A9ED6789C50",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/FirstPersonBP/Materials/M_RoundCorners.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/FirstPerson/Meshes/BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0A5BD060D872B75828943511D69D48BF71E0001",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0833B66BCE9D423F56224C7F5D3FD9C118104F81",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "70368F7B49ECE232067D5BD15961AA3CC786F482",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F77242BBCAA16CAF0ABDEC597BEE76FD973EF259",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E599DC21F2566D0BD88F79500302F569700EB5A",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDE733D4C48705524848E0FC78DA95D2A7F58691",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C896AACBBDA69174F0D49DC8A600CB4F90C5A5EC",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB5E11B28283545CCAFA183A2E746550620D50FF",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/Help_Mark_Escape/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+			]
+		}
+	]
+}
