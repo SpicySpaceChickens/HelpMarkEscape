@@ -47,65 +47,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/AI/AISupport/AISupport.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "AISupport",
-				"Description": "A simple plugin that makes sure your project loads AIModule and NavigationSystem at runtime",
-				"Category": "AI",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "AISupportModule",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/AI/EnvironmentQueryEditor/EnvironmentQueryEditor.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Environment Query Editor (Experimental)",
-				"Description": "Allows editing of Environment Query assets, which are used by the AI to collect data about the environment/world",
-				"Category": "AI",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "EnvironmentQueryEditor",
-						"Type": "UncookedOnly",
-						"LoadingPhase": "PreDefault"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "AISupport",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin",
 			"Descriptor": 
 			{
@@ -132,69 +73,6 @@
 						"Name": "LightPropagationVolumeEditor",
 						"Type": "Editor",
 						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Developer/AnimationSharing/AnimationSharing.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Animation Sharing",
-				"Description": "Plugin to create Shared Animation systems using the Master-Child pose functionality",
-				"Category": "Programming",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "AnimationSharing",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "AnimationSharingEd",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "SignificanceManager",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Significance Manager",
-				"Description": "The significance manager plugin provides an extensible framework for allowing games to calculate the significance of an object and change behavior in response.",
-				"Category": "Programming",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "SignificanceManager",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
 					}
 				]
 			}
@@ -467,114 +345,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Alembic Importer (Experimental)",
-				"Description": "Support importing Alembic files",
-				"Category": "Importers",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "AlembicImporter",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Linux"
-						]
-					},
-					{
-						"Name": "AlembicLibrary",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Linux"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "GeometryCache",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Geometry Cache (Experimental)",
-				"Description": "Support for distilled Geometry animations",
-				"Category": "Importers",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "GeometryCacheEd",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac"
-						]
-					},
-					{
-						"Name": "GeometryCacheSequencer",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac"
-						]
-					},
-					{
-						"Name": "GeometryCacheStreamer",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Linux"
-						]
-					},
-					{
-						"Name": "GeometryCache",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "GeometryCacheTracks",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin",
 			"Descriptor": 
 			{
@@ -660,39 +430,6 @@
 						"Name": "BackChannel",
 						"Type": "RuntimeNoCommandlet",
 						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Experimental/ChaosClothEditor/ChaosClothEditor.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Chaos Cloth Editor",
-				"Description": "Editor module accompanying the Chaos Cloth runtime module.",
-				"Category": "Physics",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "ChaosClothEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "ChaosCloth",
-						"Enabled": true
 					}
 				]
 			}
@@ -971,107 +708,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Chaos Niagara",
-				"Description": "Import destruction data from Chaos into Niagara to generate secondary destruction effects.",
-				"Category": "",
-				"CreatedBy": "",
-				"CreatedByURL": "",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "ChaosNiagara",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"PS4",
-							"XboxOne",
-							"Mac",
-							"Linux"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "Niagara",
-						"Enabled": true
-					},
-					{
-						"Name": "ChaosSolverPlugin",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/FX/Niagara/Niagara.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Niagara",
-				"Description": "Niagara effect systems.",
-				"Category": "FX",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "NiagaraCore",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "Niagara",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "NiagaraAnimNotifies",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "NiagaraShader",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit"
-					},
-					{
-						"Name": "NiagaraVertexFactories",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit"
-					},
-					{
-						"Name": "NiagaraEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "NiagaraEditorWidgets",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin",
 			"Descriptor": 
 			{
@@ -1094,6 +730,66 @@
 						"Name": "CharacterAI",
 						"Type": "Runtime",
 						"LoadingPhase": "PostEngineInit"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "0.1",
+				"FriendlyName": "Geometry Cache (Experimental)",
+				"Description": "Support for distilled Geometry animations",
+				"Category": "Importers",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "GeometryCacheEd",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac"
+						]
+					},
+					{
+						"Name": "GeometryCacheSequencer",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac"
+						]
+					},
+					{
+						"Name": "GeometryCacheStreamer",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"Linux"
+						]
+					},
+					{
+						"Name": "GeometryCache",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "GeometryCacheTracks",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
 					}
 				]
 			}
@@ -1224,321 +920,14 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap Passable World",
-				"Description": "Shared world experiences on XR devices supported by Magic Leap.",
-				"Category": "Augmented Reality",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Mac",
-					"Win64"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeapARPin",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "MagicLeapSharedWorld",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeap/MagicLeap.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap",
-				"Description": "Support for the Magic Leap Head Mounted Display.",
-				"Category": "Augmented Reality",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Mac",
-					"Win64"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeap",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapAR",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapARPinImpl",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapAudio",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapAudioCapture",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapController",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapEyeTracker",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHandTracking",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHelperOpenGL",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHelperVulkan",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapIdentity",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapImageTracker",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapPlanes",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapPrivileges",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapSecureStorage",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					},
-					{
-						"Name": "MagicLeapHandMeshing",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "MLSDK",
-						"Enabled": true
-					},
-					{
-						"Name": "MagicLeapPassableWorld",
-						"Enabled": true
-					},
-					{
-						"Name": "MagicLeapLightEstimation",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MagicLeap/MLSDK/MLSDK.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "MLSDK",
-				"Description": "Native C-API support for Magic Leap.",
-				"Category": "Lumin",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "MLSDK",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MagicLeap/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Magic Leap Light Estimatation",
-				"Description": "Support for the Magic Leap Light Tracking API.",
-				"Category": "Lumin",
-				"CreatedBy": "Magic Leap, Inc.",
-				"CreatedByURL": "http://magicleap.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"SupportedTargetPlatforms": [
-					"Lumin",
-					"Win64",
-					"Mac"
-				],
-				"Modules": [
-					{
-						"Name": "MagicLeapLightEstimation",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Lumin"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "MLSDK",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin",
+			"File": "../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 2,
 				"VersionName": "2.0",
-				"FriendlyName": "AVF Media Player",
-				"Description": "Implements a media player using Apple AV Foundation.",
+				"FriendlyName": "Android Media Player",
+				"Description": "Implements a media player using the Android Media library.",
 				"Category": "Media Players",
 				"CreatedBy": "Epic Games, Inc.",
 				"CreatedByURL": "http://epicgames.com",
@@ -1549,36 +938,29 @@
 				"CanContainContent": false,
 				"Modules": [
 					{
-						"Name": "AvfMedia",
+						"Name": "AndroidMedia",
 						"Type": "RuntimeNoCommandlet",
 						"LoadingPhase": "PreLoadingScreen",
 						"WhitelistPlatforms": [
-							"IOS",
-							"Mac",
-							"TVOS"
+							"Android"
 						]
 					},
 					{
-						"Name": "AvfMediaEditor",
+						"Name": "AndroidMediaEditor",
 						"Type": "Editor",
 						"LoadingPhase": "PostEngineInit"
 					},
 					{
-						"Name": "AvfMediaFactory",
+						"Name": "AndroidMediaFactory",
 						"Type": "Editor",
 						"LoadingPhase": "PostEngineInit"
 					},
 					{
-						"Name": "AvfMediaFactory",
+						"Name": "AndroidMediaFactory",
 						"Type": "RuntimeNoCommandlet",
 						"LoadingPhase": "PostEngineInit",
 						"WhitelistPlatforms": [
-							"IOS",
-							"Linux",
-							"Mac",
-							"TVOS",
-							"Win32",
-							"Win64"
+							"Android"
 						]
 					}
 				]
@@ -1680,70 +1062,6 @@
 						"Enabled": true,
 						"WhitelistTargets": [
 							"Editor"
-						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 2,
-				"VersionName": "2.0",
-				"FriendlyName": "WMF Media Player",
-				"Description": "Implements a media player using the Windows Media Foundation framework.",
-				"Category": "Media Players",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "https://forums.unrealengine.com/showthread.php?46879-Media-Framework-Documentation-for-4-5-Preview",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "WmfMedia",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win32",
-							"Win64",
-							"XboxOne"
-						],
-						"BlacklistTargets": [
-							"Server"
-						]
-					},
-					{
-						"Name": "WmfMediaEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PostEngineInit",
-						"BlacklistTargets": [
-							"Server"
-						]
-					},
-					{
-						"Name": "WmfMediaFactory",
-						"Type": "Editor",
-						"LoadingPhase": "PostEngineInit",
-						"BlacklistTargets": [
-							"Server"
-						]
-					},
-					{
-						"Name": "WmfMediaFactory",
-						"Type": "RuntimeNoCommandlet",
-						"LoadingPhase": "PostEngineInit",
-						"WhitelistPlatforms": [
-							"Mac",
-							"Linux",
-							"Win32",
-							"Win64"
-						],
-						"BlacklistTargets": [
-							"Server"
 						]
 					}
 				]
@@ -1854,38 +1172,6 @@
 							"UnrealLightmass",
 							"CrashReportClientEditor"
 						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Actor Sequence (Experimental)",
-				"Description": "Runtime for embedded actor sequences",
-				"Category": "Editor",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "ActorSequence",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "ActorSequenceEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PostEngineInit"
 					}
 				]
 			}
@@ -2098,38 +1384,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Portal/LauncherChunkInstaller/LauncherChunkInstaller.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Launcher Chunk Installer",
-				"Description": "Chunk installer module that hooks into launcher",
-				"Category": "Launcher",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "LauncherChunkInstaller",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Linux",
-							"Mac"
-						]
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Runtime/ActorLayerUtilities/ActorLayerUtilities.uplugin",
 			"Descriptor": 
 			{
@@ -2156,6 +1410,70 @@
 						"Name": "ActorLayerUtilitiesEditor",
 						"Type": "Editor",
 						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Android Device Profile Selector",
+				"Description": "Android Device Profile Selector used show selection of device profiles on hardware",
+				"Category": "Device Profile Selectors",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AndroidDeviceProfileSelector",
+						"Type": "Editor",
+						"LoadingPhase": "None"
+					},
+					{
+						"Name": "AndroidDeviceProfileSelectorRuntime",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "PostConfigInit",
+						"WhitelistPlatforms": [
+							"Android",
+							"Lumin"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Android Movie Player",
+				"Description": "Android Platform Movie Player using Android Media library",
+				"Category": "Movie Players",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AndroidMoviePlayer",
+						"Type": "RuntimeNoCommandlet",
+						"LoadingPhase": "PreLoadingScreen",
+						"WhitelistPlatforms": [
+							"Android"
+						]
 					}
 				]
 			}
@@ -2188,68 +1506,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/AppleImageUtils/AppleImageUtils.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Apple Image Utils",
-				"Description": "Utilities that operate on CIImage, CVPixelBuffer, IOSurface, etc.",
-				"Category": "Experimental",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "AppleImageUtils",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "AppleImageUtilsBlueprintSupport",
-						"Type": "UncookedOnly",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Linux"
-						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "ArchVis Character",
-				"Description": "A controllable character tuned for architectural applications",
-				"Category": "Gameplay",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "ArchVisCharacter",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Runtime/AssetTags/AssetTags.uplugin",
 			"Descriptor": 
 			{
@@ -2269,66 +1525,6 @@
 				"Modules": [
 					{
 						"Name": "AssetTags",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Audio Capture",
-				"Description": "Plugin provides an interface for microphone input capture.",
-				"Category": "Audio",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "AudioCapture",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "AudioCaptureEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PostEngineInit",
-						"WhitelistPlatforms": [
-							"Win64"
-						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Cable Component",
-				"Description": "A simulated cable component.",
-				"Category": "Rendering",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "CableComponent",
 						"Type": "Runtime",
 						"LoadingPhase": "Default"
 					}
@@ -2414,15 +1610,15 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/GooglePAD/GooglePAD.uplugin",
+			"File": "../../../Engine/Plugins/Runtime/GoogleCloudMessaging/GoogleCloudMessaging.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
 				"VersionName": "1.0",
-				"FriendlyName": "GooglePAD",
-				"Description": "Google Play Asset Delivery for Android.",
-				"Category": "Android",
+				"FriendlyName": "Google Cloud Messaging",
+				"Description": "Support for remote notifications using Google Cloud Messaging",
+				"Category": "Notifications",
 				"CreatedBy": "Epic Games, Inc.",
 				"CreatedByURL": "http://epicgames.com",
 				"DocsURL": "",
@@ -2432,24 +1628,11 @@
 				"CanContainContent": false,
 				"Modules": [
 					{
-						"Name": "GooglePAD",
+						"Name": "GoogleCloudMessaging",
 						"Type": "Runtime",
-						"LoadingPhase": "Default",
+						"LoadingPhase": "PreDefault",
 						"WhitelistPlatforms": [
-							"Android",
-							"Win64",
-							"Mac",
-							"Linux"
-						]
-					},
-					{
-						"Name": "GooglePADEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PostEngineInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Linux"
+							"Android"
 						]
 					}
 				]
@@ -2503,76 +1686,6 @@
 						"Name": "MobilePatchingUtils",
 						"Type": "Runtime",
 						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.51.0",
-				"FriendlyName": "Oculus VR",
-				"Description": "Support for Oculus headsets and controllers",
-				"Category": "Virtual Reality",
-				"CreatedBy": "Oculus",
-				"CreatedByURL": "https://www.oculus.com/",
-				"DocsURL": "https://developer.oculus.com/documentation/unreal/latest/concepts/unreal-engine/",
-				"MarketplaceURL": "",
-				"SupportURL": "https://forums.oculusvr.com/developer/categories/unreal",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Win32",
-					"Win64",
-					"Android"
-				],
-				"Modules": [
-					{
-						"Name": "OculusHMD",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Android"
-						]
-					},
-					{
-						"Name": "OculusInput",
-						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Android"
-						]
-					},
-					{
-						"Name": "OculusMR",
-						"Type": "Runtime",
-						"LoadingPhase": "PostEngineInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Android"
-						]
-					},
-					{
-						"Name": "OculusEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "ProceduralMeshComponent",
-						"Enabled": true
 					}
 				]
 			}
@@ -2662,189 +1775,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "SteamVR",
-				"Description": "Support for the SteamVR API",
-				"Category": "Virtual Reality",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"SupportedTargetPlatforms": [
-					"Win32",
-					"Win64",
-					"Linux"
-				],
-				"Modules": [
-					{
-						"Name": "SteamVR",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Linux"
-						]
-					},
-					{
-						"Name": "SteamVRInput",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32"
-						]
-					},
-					{
-						"Name": "SteamVRInputDevice",
-						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32"
-						]
-					},
-					{
-						"Name": "SteamVREditor",
-						"Type": "UncookedOnly",
-						"LoadingPhase": "PostEngineInit",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "ProceduralMeshComponent",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/Synthesis/Synthesis.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.1",
-				"FriendlyName": "Synthesis and DSP Effects",
-				"Description": "A variety of realtime synthesizers and DSP source and submix effects.",
-				"Category": "Audio",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Modules": [
-					{
-						"Name": "Synthesis",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "SynthesisEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "AudioSynesthesia",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/AudioSynesthesia/AudioSynesthesia.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Audio Synesthesia",
-				"Description": "A variety of offline analyzers for integrating exposing extracted audio metadata to blueprints.",
-				"Category": "Audio",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": true,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "AudioSynesthesiaCore",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "AudioSynesthesia",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "AudioSynesthesiaEditor",
-						"Type": "Editor",
-						"LoadingPhase": "PostDefault"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Movie Player for WebM files",
-				"Description": "Movie Player for WebM files",
-				"Category": "Movie Players",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "WebMMoviePlayer",
-						"Type": "RuntimeNoCommandlet",
-						"LoadingPhase": "PreLoadingScreen",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Linux",
-							"Mac"
-						],
-						"BlacklistTargets": [
-							"Server"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "WebMMedia",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Media/WebMMedia/WebMMedia.uplugin",
 			"Descriptor": 
 			{
@@ -2897,36 +1827,6 @@
 						],
 						"BlacklistTargets": [
 							"Server"
-						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Windows Movie Player",
-				"Description": "Windows Specific Movie Player using Media Foundation",
-				"Category": "Movie Players",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "WindowsMoviePlayer",
-						"Type": "RuntimeNoCommandlet",
-						"LoadingPhase": "PreLoadingScreen",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32"
 						]
 					}
 				]
