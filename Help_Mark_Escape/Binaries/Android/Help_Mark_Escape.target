@@ -218,10 +218,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GooglePAD/GooglePAD.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin",
 			"Type": "UFS"
 		},
@@ -1458,10 +1454,6 @@
 		{
 			"Name": "AndroidPlugin",
 			"Value": "Plugins\\Runtime\\GoogleCloudMessaging\\Source\\GoogleCloudMessaging\\GoogleCloudMessaging_UPL.xml"
-		},
-		{
-			"Name": "AndroidPlugin",
-			"Value": "Plugins\\Runtime\\GooglePAD\\Source\\GooglePAD\\GooglePAD_APL.xml"
 		},
 		{
 			"Name": "AndroidPlugin",

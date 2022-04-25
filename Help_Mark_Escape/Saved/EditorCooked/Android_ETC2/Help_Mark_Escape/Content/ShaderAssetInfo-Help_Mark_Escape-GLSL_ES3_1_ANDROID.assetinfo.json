@@ -1,0 +1,823 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "A241618BF200314D4C28CFBAE563F27C2B7ABD90",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF93A7FCCB1B018E2BD478E9B2EC0B3FB7EDE7E7",
+			"Assets": [
+				"../../../Engine/Content/EngineResources/M_StreamingPause.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D738B2D46A19E2854EECD8B662D7834B5BC557B2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBD34BEE22167D0C8CF53BA26253BBF17B2A944F",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "830C9111ED644E00A1020DDC54B2778C15CCE051",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AEB0F87491C6F93A2EC62AD87A94A85C1694DCCD",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14DDA0D8F93E29E63F7689B9536CB352AC1A38C7",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F2A4F5255B0F7EF7D3AA1BE35CD792F46264E87D",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "644A5583D2909A8B789157B4EE7FFD01C8FD9AEA",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B71BC93B34DF86CA5CF16C29E7745920E05BAE1",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "901FB3AB79ACF096285CF067873163FA551E60A8",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6D2C38065F9A9F6368AF0EBC5998B423E22092E7",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "04A52CEBDC79A28987D999AE95DFCE26486E5973",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA1D8EC179CD5E5E456CA69A0002B8BF9F2542DC",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F6A312E676FA9F03DEB67E5F3AF16A7BDDE711A",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3E980D7B2364CEF1A47BFC301F1722A31FE29267",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "399991322BDE7B12523075E5ADD1797D0CFF244A",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1F5FA23342A48848652035CE85B1101A563E1AE",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "39C8EC52BA2F979B53B6C02F535003D8F0E9A790",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9AD2C1950A9CEEF679B829B91AB5170F14C60D54",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D45645FDB21A9B74D40F0DD3234DF7F3E008537F",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59F9AF4CC7B5AFB730BE5BE45DE3CC36F623673B",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F14155249CEF86DEDA94741B5DCB8D4080DF9A4F",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B7CFA4E3D632FEE9DC8D6B07176BD2750F59C19",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3CCFB8D9BA178D1C4C577D014EB13408462F17C7",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset",
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "90EB2896E0D8BD0779EAFED4FEF96C5F417B97B7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C05BF21EC5B8872BBDC1DE63F199289CA62EDF5E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A73F0505BCD9492E59234A540469332A98893367",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8DA73A05B5D9953CC46699A9264B471D955765",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B3A6A4404427D109FC9BC6DC9F55AE8D18C4B3AA",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2F8781539C99931411F5332AA82FA2C5866C75C1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA66F39E58CD6EE13F9F14904E5186EDE50B2CBD",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D7D74505DC9AD17894A5A3BCC143812823920BE",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2F893645596A170A38B844017DAEE8681776E33",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "741230B581A161314EA9F4BA0EF1731770C9B8CE",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF02C0EAEEDF6D1C4E932A937F7D850A2C99B52D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C62F0163D9717BF66E2A290A7FD21DD238D611D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4055BA8C5CA5D5068173DFB91E3B07899C037DC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B4E3A40F9B0044F491EA50CF956EF9907203BC19",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "261839F852A121609F99564711D83EC7DD8B3827",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9007908EDA17C25A8E238DB7C968C3D61977F200",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "91FB14AEB82A6F449723A42C8D03F50BC475F0B6",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "029D4BC8B4A004AD5B2F4FA798CBEF78DE315226",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01C4914B787E20701CD5B6F884DAA8F73399B7B5",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61896EC57986D9A3176151C8974F65048E3B5ABD",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "13F22B2C0C920FC82E9DBFDDC53EAB4A39BB5469",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "26961D5EC7699BC38432C3298871E975C87E279E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44034EA9067380DE869A3AC9AEA66E78CE63B5E1",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF5E507496125896845FB5E695D536D1FF88FC91",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A752716162857AE03C15AA2224C1607EC9197E8",
+			"Assets": [
+				"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset",
+				"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset",
+				"../../../Engine/Content/BufferVisualization/Velocity.uasset",
+				"../../../Engine/Content/BufferVisualization/WorldTangent.uasset",
+				"../../../Engine/Content/BufferVisualization/Anisotropy.uasset",
+				"../../../Engine/Content/BufferVisualization/CustomStencil.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F394A840791E2FBC3FADD72AB266A2F265A4AF74",
+			"Assets": [
+				"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset",
+				"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset",
+				"../../../Engine/Content/BufferVisualization/FinalImage.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BC2821C24B7BC7DBA3DDF0137073806E9FD957A",
+			"Assets": [
+				"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC4D27E2698EBA2C893992DD06581E15E9C38FDA",
+			"Assets": [
+				"../../../Engine/Content/BufferVisualization/WorldNormal.uasset",
+				"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset",
+				"../../../Engine/Content/BufferVisualization/Specular.uasset",
+				"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset",
+				"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset",
+				"../../../Engine/Content/BufferVisualization/SceneDepth.uasset",
+				"../../../Engine/Content/BufferVisualization/SceneColor.uasset",
+				"../../../Engine/Content/BufferVisualization/Roughness.uasset",
+				"../../../Engine/Content/BufferVisualization/Opacity.uasset",
+				"../../../Engine/Content/BufferVisualization/Metallic.uasset",
+				"../../../Engine/Content/BufferVisualization/MaterialAO.uasset",
+				"../../../Engine/Content/BufferVisualization/LightingModel.uasset",
+				"../../../Engine/Content/BufferVisualization/CustomDepth.uasset",
+				"../../../Engine/Content/BufferVisualization/BaseColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "53B7D3693ED06321B8AEAEEC5C9188C58399FCE7",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "150E27004F3E6A8D9E91BD36EC721998D1C266F7",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF3FE8A664E04671C55C1D7A9DD96F08A300737B",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B06854004BD88D2C5A13621EBAE52319898DBD7",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B8703DAB8D9234A399DE16902837E38B224BCC66",
+			"Assets": [
+				"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset",
+				"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "04ED617E9430492B782C7B10027525AE3D60D1D9",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7280F65B965F7AB4787D0F3968B8DA234B2A6639",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "674868FAB59B9281817FB9EEE5550CC89170BB5F",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset",
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E982FB60BD1B0668AD7A0109E85F31E8CCCC0B4E",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D271ECEB705E8672A3F534CADBBF13C69672BDC0",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A2024644A094BA248829E467664A3AA1B8FBBBF6",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20ECD79B98DEFFC5849E1E739B51E0A05927C46F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF0E0BCE88E6645C3B4725BFE5074CB1CB0F9DEC",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56AAD9BBF1B4DCA37E1CA3F171AF08C33DC55E33",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C6F94B1491FBBE9E7EBFFFE4C19C30678FE9F52",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "55B219B6136FC96AECC357E5A2593F66360763DA",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "441F6045484EF88E0A638B42C4EED4451F14B520",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23A4936D5AC070B4EF61DB999E857ABF0913A869",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B34DA352BE2E3BC76A3F16F0ED8E23B4FE61047D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1B73E791638B21A1D76E64699B544F96D567D36",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6BAE1CCC4D6DCB0F569B335BCC63FA51DF95C717",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D966B2738C4045C725CEF5520194EF283DAD4AF2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99BF155C611DA7D1D96CA06B5AF4FD03476E5840",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5969CF5A5492F491EF90D4D45A40B4CE84404ED0",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3FF1D2920BBCF76528397038E083A8C8F11A73D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82997EAA0B9847B912569EBAFFD351319DC094A7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2701174C27096ABB6A057A75E810E894BE191769",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E8D12229B45E581C228DF6C0D7FCEA2F0A730B4B",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "015C8080FC8A7D9381BA987C1E0B4B45D237E41D",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FE195296AE372ADB81C337861D115094558A5AFE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0471844EE5B23D250686FFC9FD1233DE58875EF4",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "048B79D382EC5E8DFA25C44BF5AB0BBD346391EC",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/MM_Sky.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1FB6A93DB088BCE0D27ACF2A16480332FAC344AB",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFF1B5626B1BD5FB6EF8C77D1B5C10EED0233ED0",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Shaders/M_PostIntObjects.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C41D3988ABC5BF1119A9F1783F16407168D31B2D",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E07398F1836BDA12719155DA15774B567E1BA1F",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/MM_Characters.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6866A436FF9AEBEB63ED49A28CC7BBC35C33AC4",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F967272577454C0B372BF8ABB65330F48D279DDF",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FB6E9354E7A661FBE2056BE6759B9D749045838",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E3BEE0A75512995CC83D75F9D8F49B0213C2EBC",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/andrzej_fullbody_gym_texture.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/lambert1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE091BA853B558601D2280CF657610B438B7BF02",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E042CB4DA4B8C8DB1816A30514166C485B6D62EA",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F8D287DF79EB2A6589C7C34996755695881D021",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Walnut_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FB0205AFFF99AD7814486A657D9E8D2762D455D",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Oak_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5122DDB8832F07B78E44A6F26AF0BEE8939B7EA7",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BCC3E212641357DAA55FBF959896A33216BFFDB0",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDDD86C6C59ED24ADD5E85EC6929310ED49CB9C8",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "181E3B29D2A02CD81903914415FEF682B741C29D",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6486F7F8A9288C34553BD1583C8170EE6E15353",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98DDA285725A90F1F2178A0057EEDBDA4E2794E8",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "137994A4AC6A7A046E605AFAFA0CE6E5542BF816",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F583EC62B714BC56C0DFE5B527F1B0021E8515F2",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E384FD99563FD8B6F8AE39CAF189070C5977ED6B",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0A47B4D89879EB5A5D92D8E01804C64890342FD",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F165B74AAE7E02173AAF93AC71AF56AAF56D6098",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "71E3D6146F22166CE609B2E4A0D44D9C0E8535CC",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CBDE88C86F83F52F3B7147795FF0193125E25FFE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF32B83EE4EFAA549BCED5C6C744FF0570250E3F",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "38155A981F3C3B1217A53D1DDCD74E894E382BFE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E37386FCC036FFB209A39E4F8A5B0A73B58F2859",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "027F86079402B1428EA93AD9FE26479A7750F1BC",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D670B83B92595A5B574CDF107101AFF5CEB688BB",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E5DD2CFD6D02DE8F1C62500605401B4DCA33E071",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset",
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "735C14925AED59E784E10F8D2938D57E54B06FF3",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "55C56C30747A7B7509DDC341AA5FE45AC7414B35",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B992A1430D8F3AB86DB9A3E3DDD68E7A072BEBE5",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F1A479778812B6C03C0C13D630B67C0DD07A7E",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "412A61758B1F4CBCD53DC873DB91BCEE99FBE75A",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D718950B54B01C85D9C8C3D9E8534078531527",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "741FD7BD41280C0586D26F7F642885414B9572FE",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2AA7C8F99ADCA547D23A2AA3EF540B211D9220E",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84BD9F46AFBCE5BBCEADEA074248FD88E22181F6",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "195A735CF1D6BB9C82E7B60D47E3E6ED733564D8",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A29FFA7D424380C3E81A649F1AF6D649BDA8D091",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2352CC625F62A398EFEE8ADDD9710080C6F8BEF4",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/UI/M_RoundCorners.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6A78DC5B59E9BFC547615089D03FDC8702B67EA2",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_05.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA29A1FBD8E9E9D6DCC477FDC0AF29D6DA6643A2",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E2C390A2E3816BED9DB945ECCAC4946C8D061D6",
+			"Assets": [
+				"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_03.uasset"
+			]
+		}
+	]
+}

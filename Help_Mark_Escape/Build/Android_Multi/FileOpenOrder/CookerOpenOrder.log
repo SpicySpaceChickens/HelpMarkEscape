@@ -1,0 +1,686 @@
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Restore_btn.uasset" 0
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Plus_Btn.uasset" 1
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/On_btn_selected__1_.uasset" 2
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/On_btn.uasset" 3
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Off_btn_selected__2_.uasset" 4
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Off_btn.uasset" 5
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/New_Settings_BG.uasset" 6
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Minus_Btn.uasset" 7
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/cancel_btn.uasset" 8
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/OptionsSave.uasset" 9
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_OptionsScreen.uasset" 10
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_InGame.uasset" 11
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/Faces/OpenSans/OpenSans-Regular.uasset" 12
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/Faces/OpenSans/OpenSans-Italic.uasset" 13
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/Faces/OpenSans/OpenSans-BoldItalic.uasset" 14
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/Faces/OpenSans/OpenSans-Bold.uasset" 15
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/OpenSans.uasset" 16
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/CurrentSaveSlot.uasset" 17
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_HistoryTree.uasset" 18
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_BackToPos.uasset" 19
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_BackToMainRoom.uasset" 20
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/TargetLocation.uasset" 21
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/Player_Speech_Box.uasset" 22
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_ObjectDialogue.uasset" 23
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/I_Interface.uasset" 24
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/GameSave.uasset" 25
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 26
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/Objects_BP.uasset" 27
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/Narrative_Box.uasset" 28
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/External_Speech_Box.uasset" 29
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Data/Dialogue_Struct.uasset" 30
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Data/Dialogue_DataTable.uasset" 31
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_Dialogue.uasset" 32
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/Character_BP.uasset" 33
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/FirstPersonCharacter1.uasset" 34
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/FirstPersonCharacter.uasset" 35
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/FirstPersonGameMode.uasset" 36
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/FirstPersonHUD.uasset" 37
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/NewGameInstance.uasset" 38
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/Prop_BP.uasset" 39
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Blueprints/saveTest.uasset" 40
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Data/Dialogue_Data_Backup.uasset" 41
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/Faces/Bangers/Bangers-Regular.uasset" 42
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Fonts/Bangers.uasset" 43
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/AndrzejApartment_BuiltData.uasset" 44
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/ContinueScreen_BuiltData.uasset" 45
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/GesturesScreen_BuiltData.uasset" 46
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/MainMenu_BuiltData.uasset" 47
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_03.uasset" 48
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_04.uasset" 49
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_05.uasset" 50
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/HDR_Restaurant.uasset" 51
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/hansaplatz_4k.uasset" 52
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/lilienstein_4k.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uasset" 55
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/UI/M_RoundCorners.uasset" 56
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/UI/M_SettingsButtons.uasset" 57
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/UI/M_SettingsSlider.uasset" 58
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" 59
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" 60
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" 61
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" 62
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" 63
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" 64
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" 65
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Collapse01.uasset" 66
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Collapse02.uasset" 67
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Explosion01.uasset" 68
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Explosion02.uasset" 69
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Fire01.uasset" 70
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" 71
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Light01.uasset" 72
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Light02.uasset" 73
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Smoke01.uasset" 74
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Starter_Music01.uasset" 75
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Audio/Steam01.uasset" 76
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 77
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 78
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 79
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" 80
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" 81
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" 82
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" 83
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" 84
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" 85
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" 86
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" 87
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 88
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 89
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" 90
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 91
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 92
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 93
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" 94
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 95
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" 96
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" 97
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 98
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 99
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 100
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" 101
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" 102
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" 103
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" 104
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 105
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 106
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 107
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" 108
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" 109
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" 110
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" 111
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" 112
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" 113
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" 114
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" 115
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" 116
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" 117
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" 118
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" 119
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" 120
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" 121
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" 122
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" 123
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" 124
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" 125
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" 126
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" 127
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 128
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" 129
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" 130
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" 131
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" 132
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" 133
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" 134
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" 135
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" 136
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" 137
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" 138
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" 139
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" 140
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" 141
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" 142
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" 143
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" 144
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" 145
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" 146
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" 147
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" 148
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" 149
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" 150
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" 151
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" 152
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" 153
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" 154
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 155
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" 156
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 157
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 158
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" 159
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 160
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" 161
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" 162
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" 163
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Water_N.uasset" 164
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" 165
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Water_M.uasset" 166
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 167
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" 168
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 169
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 170
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 171
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 172
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" 173
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" 174
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" 175
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" 176
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" 177
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" 178
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Burst_M.uasset" 179
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Bush_D.uasset" 180
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Bush_N.uasset" 181
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Chair_M.uasset" 182
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Chair_N.uasset" 183
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 184
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 185
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" 186
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Door_M.uasset" 187
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Door_N.uasset" 188
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" 189
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" 190
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 191
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 192
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Frame_M.uasset" 193
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Frame_N.uasset" 194
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" 195
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" 196
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" 197
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" 198
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" 199
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" 200
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 201
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" 202
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" 203
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 204
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 205
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" 206
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Statue_M.uasset" 207
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Statue_N.uasset" 208
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" 209
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" 210
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Oak_Mat.uasset" 211
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" 212
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" 213
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Wood_Walnut_Mat.uasset" 214
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 215
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 216
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 217
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_PlugSocketWall.uasset" 218
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Wall_Plug.uasset" 219
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_BedBase.uasset" 220
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Matress.uasset" 221
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Pillow.uasset" 222
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_01.uasset" 223
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Models/M_Placeholder_02.uasset" 224
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Bed.uasset" 225
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Croissant.uasset" 226
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Croissant.uasset" 227
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Cup.uasset" 228
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Cup.uasset" 229
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Pillow.uasset" 230
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Pillow_Couch.uasset" 231
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_BackSplashWall.uasset" 232
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_BacksplashWall.uasset" 233
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_Cabinet.uasset" 234
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_CabinetDoor.uasset" 235
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Cabinet.uasset" 236
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_FridgeBack.uasset" 237
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_FridgeDoor.uasset" 238
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Fridge.uasset" 239
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Lounge/SM_Beer.uasset" 240
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Lounge/MBP_Beer.uasset" 241
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Lounge/SM_BeerCase.uasset" 242
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Lounge/MBP_Beer_Case.uasset" 243
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_Locker.uasset" 244
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/ChangingRooms/MBP_Locker.uasset" 245
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_MirrorBathroom.uasset" 246
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/ChangingRooms/MBP_Mirror.uasset" 247
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/andrzej_fullbody_gym_texture.uasset" 248
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/andrzej_fullbody_gym_low_andrzej_eyes_low.uasset" 249
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/andrzej_fullbody_gym_low_andrzej_fullbody_gym_low.uasset" 250
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Characters/MBP_Andrzej.uasset" 251
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_fullbody_gym_low_andrzej_fullbody_gym_low.uasset" 252
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_fullbody_gym_low_andrzej_eyes_low.uasset" 253
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Gym_Full_OcclusionRoughnessMetallic.uasset" 254
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Gym_Full_Normal.uasset" 255
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Gym_Full_BC.uasset" 256
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Full_OcclusionRoughnessMetallic.uasset" 257
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Full_Normal.uasset" 258
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Full_BC.uasset" 259
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/MM_Characters.uasset" 260
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/MI_Andrzej_Gym.uasset" 261
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Characters/MBP_Andrzej_Gym.uasset" 262
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_gym_low_andrzej_waistup_gym_low.uasset" 263
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_gym_low_andrzej_tongue_low.uasset" 264
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_gym_low_andrzej_teethtop_low.uasset" 265
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_gym_low_andrzej_teethbottom_low.uasset" 266
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_gym_low_andrzej_eyes_low.uasset" 267
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Gym_Waist_OcclusionRoughnessMetallic.uasset" 268
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Gym_Waist_Normal.uasset" 269
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Gym_Waist_BC.uasset" 270
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/MI_Andrzej_Gym_Waist.uasset" 271
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Characters/MBP_Andrzej_Gym_Waist.uasset" 272
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_fullbody_regular_low__1__eyes_low.uasset" 273
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_fullbody_regular_low__1__andrzej_fullbody_regular_low.uasset" 274
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/MI_Andrzej_Regular.uasset" 275
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Characters/MBP_Andrzej_Regular.uasset" 276
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_regular_low_tongue_low.uasset" 277
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_regular_low_teethtop_low.uasset" 278
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_regular_low_teethbottom_low.uasset" 279
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_regular_low_eyes_low.uasset" 280
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej/andrzej_waistup_regular_low_andrzej_waistup_regular_low.uasset" 281
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Waist_OcclusionRoughnessMetallic.uasset" 282
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Waist_Normal.uasset" 283
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/Textures/Andrzej_Waist_BC.uasset" 284
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Characters/Andrzej/MI_Andrzej_Regular_Waist.uasset" 285
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Characters/MBP_Andrzej_Regular_Waist.uasset" 286
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Book_01_Cube_001.uasset" 287
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Book_01_Cube.uasset" 288
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Book_01.uasset" 289
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Wall_Cube_004.uasset" 290
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Wall_Cube_003.uasset" 291
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Wall_Cube_002.uasset" 292
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Wall_Cube_001.uasset" 293
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Wall_Cube.uasset" 294
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Wall_Cube_005.uasset" 295
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Restaurant/MBP_Wall.uasset" 296
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/window_Unwrapped_Cube_011.uasset" 297
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/window_Unwrapped_Cube_007.uasset" 298
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/window_Unwrapped_Cube_006.uasset" 299
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Restaurant/MBP_Window.uasset" 300
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_Rug.uasset" 301
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_ShowerHead.uasset" 302
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_gym_low_andrzej_eyes_low.uasset" 303
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_gym_low_andrzej_teethbottom_low.uasset" 304
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_gym_low_andrzej_teethtop_low.uasset" 305
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_gym_low_andrzej_tongue_low.uasset" 306
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_gym_low_andrzej_waistup_gym_low.uasset" 307
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_regular_low_andrzej_waistup_regular_low.uasset" 308
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_regular_low_eyes_low.uasset" 309
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_regular_low_teethbottom_low.uasset" 310
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_regular_low_teethtop_low.uasset" 311
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_waistup_regular_low_tongue_low.uasset" 312
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Music/MainLoopFaster.uasset" 313
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/background_solid_settings.uasset" 314
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/Lock.uasset" 315
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/NavigationFlipped.uasset" 316
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/Navigation_btn.uasset" 317
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/MainScreenWidgets/Player_Speech_Box__1_.uasset" 318
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WarningScreenTextures/Accept_tick_btn.uasset" 319
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WarningScreenTextures/contentConfirm_btn.uasset" 320
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Back_btn.uasset" 321
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesOptionsMenu/Settings_BG.uasset" 322
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 323
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 324
+"../../../Engine/Content/BasicShapes/Cone.uasset" 325
+"../../../Engine/Content/BasicShapes/Plane.uasset" 326
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 327
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 328
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 329
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 330
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 331
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 332
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 333
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 334
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 335
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 336
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 337
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 338
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 339
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 340
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 341
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 342
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 343
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 344
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 345
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 346
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 347
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 348
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 349
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 350
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 351
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 352
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 353
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 354
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 355
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 356
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 357
+"../../../Engine/Content/EditorResources/S_Note.uasset" 358
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 359
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 360
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 361
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 362
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 363
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 364
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 365
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 366
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 367
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 368
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 370
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 371
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 372
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 373
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 374
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 375
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 376
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 377
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 378
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 379
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 380
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 381
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 382
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 383
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 384
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 385
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 386
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 387
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 388
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 389
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 390
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 391
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 392
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 393
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 394
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 395
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 396
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 397
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 398
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 399
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 400
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 401
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 402
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 403
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 404
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 406
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 407
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 408
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 409
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 410
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 411
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 412
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 413
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 414
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 415
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 416
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 417
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 418
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 419
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 420
+"../../../Engine/Content/EngineResources/Black.uasset" 421
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 422
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 423
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 424
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 425
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 426
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 427
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 428
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 429
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 430
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 431
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 432
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 433
+"../../../Engine/Content/EngineSounds/Master.uasset" 434
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 435
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 436
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 437
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 438
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 439
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 440
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 441
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 442
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 443
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 444
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 445
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 446
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 447
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 448
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 449
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 450
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 451
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 452
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 453
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 454
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 455
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 456
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 457
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 458
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 459
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 460
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 461
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 462
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 463
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 464
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 465
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 466
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 467
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 468
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 469
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 470
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 471
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 472
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 473
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 474
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 475
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 476
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 478
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 479
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 480
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 481
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 482
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 483
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 484
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 485
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 486
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 487
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 488
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 489
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 490
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 491
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 492
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 493
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 494
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 495
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_SInkDoubleDoors.uasset" 496
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_KitchenSink.uasset" 497
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Sink.uasset" 498
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_Cooker.uasset" 499
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Cooker.uasset" 500
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_KItchenCHair.uasset" 501
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Chair.uasset" 502
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_CabinetShelved.uasset" 503
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Cabinet_Shelved.uasset" 504
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Wardrobe.uasset" 505
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Wardrobe.uasset" 506
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Rug__1_.uasset" 507
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Rug.uasset" 508
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_Drawers.uasset" 509
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_Drawers.uasset" 510
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bedroom/SM_BedsideTable.uasset" 511
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bedroom/MBP_BedsideTable.uasset" 512
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bathroom/SM_Toilet.uasset" 513
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bathroom/MBP_Toilet.uasset" 514
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bathroom/SM_Sink.uasset" 515
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bathroom/MBP_Sink.uasset" 516
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bathroom/SM_ShowerHead.uasset" 517
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bathroom/SM_ShowerBase.uasset" 518
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bathroom/MBP_Shower.uasset" 519
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Bathroom/SM_MirrorBathroom.uasset" 520
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Bathroom/MBP_Mirror.uasset" 521
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Lounge/SM_SmallCouch.uasset" 522
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Lounge/MBP_Couch_Small.uasset" 523
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Lounge/SM_EmptyCan.uasset" 524
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Lounge/MBP_Empty_Can.uasset" 525
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_Door.uasset" 526
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Door.uasset" 527
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_Doorway.uasset" 528
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Doorway.uasset" 529
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_Light.uasset" 530
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Light_Ceiling.uasset" 531
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_StandingLight.uasset" 532
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Light_Floor.uasset" 533
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_PlaneWall.uasset" 534
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Wall_Plain.uasset" 535
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_fullbody_regular_low_andrzej_fullbody_regular_low.uasset" 536
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_fullbody_regular_low_eyes_low.uasset" 537
+"../../../Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uasset" 538
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/HDR_Apartment_Morning.uasset" 539
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Kitchen/SM_KitchenTable.uasset" 540
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Kitchen/MBP_Table.uasset" 541
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Lounge/SM_CoffeeTable.uasset" 542
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Lounge/MBP_Coffee_Table.uasset" 543
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/Lounge/SM_Couch.uasset" 544
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/Lounge/MBP_Couch.uasset" 545
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Andrzej_Apartment/SM_WindowWall.uasset" 546
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/AndrzejApartment/MBP_Wall_Window.uasset" 547
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_Bin.uasset" 548
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/ChangingRooms/MBP_Bin.uasset" 549
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Glass.uasset" 550
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BitMask.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 553
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Shaders/M_PostIntObjects.uasset" 554
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Shaders/M_PostIntObjects_Inst.uasset" 555
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 556
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/MM_Sky.uasset" 557
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/MI_Sky_Apartment_Morning.uasset" 558
+"../../../Engine/Content/BasicShapes/Cube.uasset" 559
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Tom/tom_fullbody_low_tom_fullbody_low.uasset" 560
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Tom/tom_fullbody_low_tom_eyes_low.uasset" 561
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Characters/MBP_Tom.uasset" 562
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/AndrzejApartment.umap" 563
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_ContinueScreen.uasset" 564
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/ContinueScreen.umap" 565
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Chair_01_Cube.uasset" 566
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/lambert1.uasset" 567
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Base_Door.uasset" 568
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" 569
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" 570
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" 571
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" 572
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" 573
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 574
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 575
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 576
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SampleSceneDepth.uasset" 577
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Shaders/M_Post.uasset" 578
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Shaders/M_Post_Inst.uasset" 579
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" 580
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 581
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 582
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 583
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 584
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 585
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 586
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/Flat.umap" 587
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/GesturesControlsTextures/ControlsImage.uasset" 588
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_ControlsIntro.uasset" 589
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/GesturesScreen.umap" 590
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Door_02_Cube_002.uasset" 591
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Door_02_Cube.uasset" 592
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Door_01_Cube_003.uasset" 593
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Door_01_Cube_001.uasset" 594
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Door_01_Cube.uasset" 595
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Bench_Press_01.uasset" 596
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_fullbody_gym_low_andrzej_fullbody_gym_low.uasset" 597
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Characters/Andrzej_new/andrzej_fullbody_gym_low_andrzej_eyes_low.uasset" 598
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" 599
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" 600
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" 601
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" 602
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/Multi_gym_Unwrapped_Cube_005.uasset" 603
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/Multi_gym_Unwrapped_Cube_004.uasset" 604
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/Multi_gym_Unwrapped_Cube_003.uasset" 605
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/Multi_gym_Unwrapped_Cube_002.uasset" 606
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/Multi_gym_Unwrapped_Cube_001.uasset" 607
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/Multi_gym_Unwrapped_Cube.uasset" 608
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Multigym.uasset" 609
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Weights_01_Cylinder_007.uasset" 610
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Weights_01_Cylinder_003.uasset" 611
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Weights_01_Cube_015.uasset" 612
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Weights.uasset" 613
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Treadmill_01_Cube_010.uasset" 614
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Treadmill_01_Cube_008.uasset" 615
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Treadmill_01_Cube_007.uasset" 616
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Treadmill_01_Cube_006.uasset" 617
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Treadmill_01_Cube_004.uasset" 618
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Treadmill_01.uasset" 619
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Mirror_01.uasset" 620
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" 621
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Mirror_01.uasset" 622
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Mat_01.uasset" 623
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Mat_01.uasset" 624
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Light_02_Cube_003.uasset" 625
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Light_02_Cube.uasset" 626
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Light_02.uasset" 627
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Light_01_Cube_002.uasset" 628
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Light_01_Cube_001.uasset" 629
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Light_01_Cube.uasset" 630
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Light_01.uasset" 631
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Door_01.uasset" 632
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Chair_01_Cube_007.uasset" 633
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Chair_01_Cube_006.uasset" 634
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Chair_01_Cube_003.uasset" 635
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Chair_01.uasset" 636
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/SM_Gym_Bottle_01.uasset" 637
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Bottle_01.uasset" 638
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Bench_Press_01.uasset" 639
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Gym/GYM_Desk_Unwrapped.uasset" 640
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Desk.uasset" 641
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_Toilet.uasset" 642
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_CubicleDoor.uasset" 643
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_Cubicle.uasset" 644
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/ChangingRooms/MBP_Toilet_Cubicle.uasset" 645
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_Sink.uasset" 646
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/ChangingRooms/MBP_Sink.uasset" 647
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/ChangingRooms/SM_ChangingBench.uasset" 648
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/ChangingRooms/MBP_ChangingBench.uasset" 649
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/Gym_BuiltData.uasset" 650
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/Gym.umap" 651
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/HistoryTree.umap" 652
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WarningScreenTextures/Content_Warning_v2.uasset" 653
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WarningScreenTextures/accept_btn.uasset" 654
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WarningScreenTextures/Accept_blank_btn.uasset" 655
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesMainMenu/continue_btn_new.uasset" 656
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_WarningIntro.uasset" 657
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesMainMenu/Title_Splash.uasset" 658
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesMainMenu/Start_btn.uasset" 659
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesMainMenu/Options_btn.uasset" 660
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/WidgetTexturesMainMenu/history_button_new.uasset" 661
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/UI/W_MainMenu.uasset" 662
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/MainMenu.umap" 663
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/MarkApartment_BuiltData.uasset" 664
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/MarkApartment.umap" 665
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/OptionsScreen.umap" 666
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Materials/Sky/MI_Sky_Restaurant.uasset" 667
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/Restaurant_BuiltData.uasset" 668
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/table_Unwrapped_Cube_004.uasset" 669
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/table_Unwrapped_Cube_003.uasset" 670
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/table_Unwrapped_Cube_002.uasset" 671
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/table_Unwrapped_Cube_001.uasset" 672
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/table_Unwrapped_Cube.uasset" 673
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Restaurant/MBP_Table_Small.uasset" 674
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Restaurant/MBP_Table.uasset" 675
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Bar_Unwrapped_Cube_006.uasset" 676
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Bar_Unwrapped_Cube_003.uasset" 677
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Bar_Unwrapped_Cube_002.uasset" 678
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Models/Restaurant/Bar_Unwrapped_Cube.uasset" 679
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Restaurant/MBP_Bar.uasset" 680
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/ModelBP/Gym/MBP_Gym_Door_02.uasset" 681
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/Restaurant.umap" 682
+"../../../../../../Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/HelpMarkEscape/HelpMarkEscape/Help_Mark_Escape/Content/Levels/WarningScreen.umap" 683
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 684
+"../../../Engine/Content/Maps/Entry.umap" 685
