@@ -79,6 +79,10 @@
 		{
 			"Name": "GooglePAD",
 			"Enabled": false
+		},
+		{
+			"Name": "AndroidCamera",
+			"Enabled": true
 		}
 	]
 }
