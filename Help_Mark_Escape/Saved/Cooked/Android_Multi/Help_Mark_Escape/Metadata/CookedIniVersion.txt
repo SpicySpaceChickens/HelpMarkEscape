@@ -17,7 +17,7 @@ Android.Engine:AssetRegistry:bFilterDependenciesWithNoTags:0=false
 Android.Engine:AssetRegistry:bFilterSearchableNames:0=true
 Android.Engine:Core.System:LegacyBulkDataOffsets:0=False
 Android.Engine:Core.System:CanUseUnversionedPropertySerialization:0=False
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
+Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Game/Blueprints/NewGameInstance.NewGameInstance_C
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/WarningScreen.WarningScreen
 Android.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
@@ -200,6 +200,8 @@ Windows.Input:/Script/Engine.InputSettings:AxisMappings:30=(AxisName="Interact",
 Windows.Input:/Script/Engine.InputSettings:DefaultPlayerInputClass:0=/Script/Engine.PlayerInput
 Windows.Input:/Script/Engine.InputSettings:DefaultInputComponentClass:0=/Script/Engine.InputComponent
 Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
+Windows.Input:/Script/Engine.Console:HistoryBuffer:0=highresshot 1
+Windows.Input:/Script/Engine.Console:HistoryBot:0=-1
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:0=(Key=F11,Command="LevelEditor.ToggleImmersive", bIgnoreCtrl=True, bIgnoreAlt=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:1=(Key=F11,Command="MainFrame.ToggleFullscreen",Shift=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:2=(Key=F1,Command="viewmode wireframe", bIgnoreShift=True)
@@ -217,7 +219,6 @@ Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:13=(Key=PageUp,Comman
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:14=(Key=Apostrophe,Command="EnableGDT")
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:15=(Key=Quote,Command="EnableGDT")
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:16=(Key=Semicolon,Command="ToggleDebugCamera")
-Windows.Input:/Script/Engine.Console:HistoryBot:0=-1
 Windows.Input:/Script/EngineSettings.ConsoleSettings:MaxScrollbackSize:0=1024
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteMapPaths:0=Content/Maps
 Windows.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:0=(Command="Exit",Desc="Exits the game")
@@ -557,7 +558,7 @@ Windows.Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBoun
 Windows.Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:0=true
 Windows.Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Windows.Engine:FProjectLauncher:AdvancedMode:0=False
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Game/Blueprints/NewGameInstance.NewGameInstance_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Levels/WarningScreen.WarningScreen
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Levels/WarningScreen.WarningScreen
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
@@ -1642,8 +1643,8 @@ Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:bProtectedConte
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:bManualCallToAppReady:0=False
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:bUseMobileRendering:0=true
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:Certificate:0=(FilePath="")
-Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:IconModelPath:0=(Path="Build/Lumin/Resources/Model")
-Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:IconPortalPath:0=(Path="Build/Lumin/Resources/Portal")
+Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:IconModelPath:0=(Path="")
+Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:IconPortalPath:0=(Path="")
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:bUseVulkan:0=true
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:VersionCode:0=1
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:MinimumAPILevel:0=7
@@ -2002,8 +2003,8 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaul
 Windows.Engine:/Script/Slate.SlateSettings:bExplicitCanvasChildZOrder:0=True
 Windows.Game:StartupActions:bAddPacks:0=False
 Windows.Game:StartupActions:InsertPack:0=(PackSource="MobileStarterContent.upack",PackName="StarterContent")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/aless/OneDrive/Desktop/HME")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/aless/OneDrive/Desktop/Uni Work/Third Year/DES310/Beta_Android")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
