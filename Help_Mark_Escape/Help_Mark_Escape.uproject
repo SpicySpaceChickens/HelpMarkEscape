@@ -81,8 +81,8 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AndroidCamera",
-			"Enabled": true
+			"Name": "AndroidMedia",
+			"Enabled": false
 		}
 	]
 }
