@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.obb
+*.pak
+*.apk
 
 # Precompiled Headers
 *.gch

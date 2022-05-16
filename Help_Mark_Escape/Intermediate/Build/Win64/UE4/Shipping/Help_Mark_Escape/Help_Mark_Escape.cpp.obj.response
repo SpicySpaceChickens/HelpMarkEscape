@@ -1,0 +1,91 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/D_HAS_EXCEPTIONS=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/wd4463
+/wd4244
+/wd4838
+/I .
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I Runtime\Core
+/I Runtime\Core\Public\Algo
+/I Runtime\Core\Public\Algo\Impl
+/I Runtime\Core\Public\Async
+/I Runtime\Core\Public\Clang
+/I Runtime\Core\Public\Compression
+/I Runtime\Core\Public\Concepts
+/I Runtime\Core\Public\Containers
+/I Runtime\Core\Public\Delegates
+/I Runtime\Core\Public\Experimental
+/I Runtime\Core\Public\Experimental\Containers
+/I Runtime\Core\Public\Features
+/I Runtime\Core\Public\FileCache
+/I Runtime\Core\Public\FramePro
+/I Runtime\Core\Public\GenericPlatform
+/I Runtime\Core\Public\HAL
+/I Runtime\Core\Public\HAL\Allocators
+/I Runtime\Core\Public\Hash
+/I Runtime\Core\Public\Internationalization
+/I Runtime\Core\Public\IO
+/I Runtime\Core\Public\Logging
+/I Runtime\Core\Public\Math
+/I Runtime\Core\Public\Memory
+/I Runtime\Core\Public\MemPro
+/I Runtime\Core\Public\Misc
+/I Runtime\Core\Public\Modules
+/I Runtime\Core\Public\Modules\Boilerplate
+/I Runtime\Core\Public\MSVC
+/I Runtime\Core\Public\ProfilingDebugging
+/I Runtime\Core\Public\Serialization
+/I Runtime\Core\Public\Serialization\Csv
+/I Runtime\Core\Public\Serialization\Formatters
+/I Runtime\Core\Public\Stats
+/I Runtime\Core\Public\String
+/I Runtime\Core\Public\Templates
+/I Runtime\Core\Public\Traits
+/I Runtime\Core\Public\UObject
+/I Runtime\Core\Public\Windows
+/I Runtime\TraceLog
+/I Runtime\TraceLog\Public\Trace
+/I Runtime\TraceLog\Public\Trace\Detail
+/I Runtime\TraceLog\Public\Trace\Detail\Protocols
+/I "C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate"
+/I "C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Source"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Build\Win64\Help_Mark_Escape\Shipping\Core\SharedPCH.Core.h"
+/Yu"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Build\Win64\Help_Mark_Escape\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Build\Win64\Help_Mark_Escape\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Source\Help_Mark_Escape.cpp"
+/FI"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Build\Win64\UE4\Shipping\Help_Mark_Escape\Definitions.Help_Mark_Escape.h"
+/Fo"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\DES310\HelpMarkEscape\HelpMarkEscape\Help_Mark_Escape\Intermediate\Build\Win64\UE4\Shipping\Help_Mark_Escape\Help_Mark_Escape.cpp.obj"
+/TP
+/GR-
+/W4
