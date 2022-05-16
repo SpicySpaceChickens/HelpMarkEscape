@@ -30,6 +30,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Media/AndroidCamera/AndroidCamera.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Type": "UFS"
 		},
@@ -1447,6 +1451,10 @@
 		}
 	],
 	"AdditionalProperties": [
+		{
+			"Name": "AndroidPlugin",
+			"Value": "Plugins\\Media\\AndroidCamera\\Source\\AndroidCamera\\AndroidCamera_UPL.xml"
+		},
 		{
 			"Name": "AndroidPlugin",
 			"Value": "Plugins\\Runtime\\AndroidPermission\\Source\\AndroidPermission\\AndroidPermission_APL.xml"
